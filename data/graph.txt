@@ -1,0 +1,22 @@
+France Spain 650 Belgium 350 Germany 875 Italy 950
+Spain France 650 Portugal 620 Belgium 400
+Belgium France 350 Spain 400 Netherlands 173
+Germany France 875 Netherlands 300 Austria 500 Switzerland 250 India 2000
+Italy France 950 Switzerland 280 Turkey 2500
+Portugal Spain 620
+Netherlands Belgium 173 Germany 300
+Austria Germany 500 Poland 680 CzechRepublic 330
+Switzerland Germany 250 Italy 280
+Poland Austria 680 CzechRepublic 520
+CzechRepublic Poland 520 Austria 330
+India China 4200 Nepal 800 Pakistan 500 Iran 1800 Germany 2000
+China India 4200 Japan 2100 SouthKorea 1200 Mongolia 1500 Russia 2600 Nepal 600
+Nepal India 800 China 600
+Pakistan India 500 Afghanistan 600 Iran 1200
+Japan China 2100 SouthKorea 1200
+SouthKorea China 1200 Japan 1200
+Afghanistan Pakistan 600 Iran 1400
+Iran Afghanistan 1400 Turkey 1700 India 1800 Pakistan 1200
+Turkey Iran 1700 Italy 2500
+Mongolia China 1500 Russia 3500
+Russia Mongolia 3500 China 2600
